@@ -5,4 +5,4 @@ comments: true
 ---
 
 ## Layar saya
-![First Journey](assets/Screenshot (1).png)
+![First Journey](/assets/Screenshot (1).png)
