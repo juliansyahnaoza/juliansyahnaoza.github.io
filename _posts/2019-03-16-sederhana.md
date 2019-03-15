@@ -1,6 +1,6 @@
 ---
 title: Derawan pertama ?
-updated: 2019-03-16 04:18
+updated: Sabtu, 2019-03-16 04:18
 comments: true
 ---
 
