@@ -227,4 +227,4 @@ punan tak hingga.
 
 
 
-># Konten akan terus bertambah sesuai Daftar Isi !!!
+># Konten akan terus bertambah sesuai Daftar Isi !
