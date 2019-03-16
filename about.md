@@ -4,6 +4,8 @@ title: Tentang Saya
 permalink: /about/
 ---
 
+![me](/assets/ps.png)
+
 Website saya pribadi nih.
 Site ini saya buat sudah cukup lama.
 Cuma baru online karena banyak di tunda
