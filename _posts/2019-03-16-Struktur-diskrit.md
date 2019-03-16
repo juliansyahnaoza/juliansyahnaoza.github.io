@@ -224,3 +224,5 @@ gunakan untuk menyatakan kardinalitas himpunan A. Pada Contoh 2.5,
 n(A) = 9 dan n(B) = 5. Sedangkan himpunan dengan anggota yang
 banyaknya tak hingga seperti himpunan C pada Contoh 2.5 disebut him-
 punan tak hingga.
+
+>##Konten akan terus bertambah sesuai Daftar Isi
