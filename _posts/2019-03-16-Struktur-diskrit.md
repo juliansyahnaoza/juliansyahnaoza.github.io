@@ -7,55 +7,55 @@ comments: true
 ## Daftar Isi
 
 >Kata Pengantar iii
->1 Pendahuluan 1
->1.1 Apakah Matematika Diskrit itu? 
->1.2 Mengapa Belajar Matematika Diskrit? 
->1.3 Apa Isi Struktur Diskrit? 
->2 Himpunan 5
->2.1 Notasi Himpunan 
->2.2 Keanggotaan Himpunan 
->2.3 Diagram Venn 
->2.4 Kesamaan Dua Himpunan 
->2.5 Himpunan Berhingga dan Kardinalitas 
->2.6 Himpunan Bagian dan Himpunan Kuasa 
->2.7 Operasi Himpunan 
->2.8 Sifat-sifat Operasi Himpunan 
->2.9 Hasil Kali Himpunan 
->3 Barisan 15
->3.1 Barisan dan Himpunan 
->3.2 Fungsi Karakteristik 
->3.3 Representasi Himpunan 
->4 Logika 19
->4.1 Pernyataan (Proposisi) 
->4.2 Pernyataan Bersyarat 
->4.3 Inversi, Konversi, dan Kontraposisi 
->4.4 Ekivalensi Logis dan Tautologi 
->4.5 Sifat-sifat Operasi Pernyataan 
->4.6 Pernyataan Berkuantor 
->4.7 Argumentasi Logis 
->4.8 Operasi Bit pada Komputer 
->5 Teknik Membilang 35
->5.1 Prinsip Perkalian 
->5.2 Prinsip Sarang Merpati 
->5.3 Permutasi 
->5.4 Kombinasi 
->6 Fungsi 41
->6.1 Fungsi Kebalikan .
->6.2 Komposisi Fungsi 
->7 Relasi 45
->7.1 Representasi Relasi 
->8 Pengantar Teori Graf 49
->9 Pohon 51
->10 Bilangan Bulat 53
->10.1 Pendahuluan 
->10.2 Aksioma Bilangan Bulat 
->10.3 Sifat-sifat Bilangan Bulat 
->10.4 Latihan .
->11 Induksi Matematika 59
->11.1 Induksi Matematika 
->11.2 Latihan 
->12 Matriks 63
->13 Aljabar Bool 65
+1 Pendahuluan 1
+1.1 Apakah Matematika Diskrit itu? 
+1.2 Mengapa Belajar Matematika Diskrit? 
+1.3 Apa Isi Struktur Diskrit? 
+2 Himpunan 5
+2.1 Notasi Himpunan 
+2.2 Keanggotaan Himpunan 
+2.3 Diagram Venn 
+2.4 Kesamaan Dua Himpunan 
+2.5 Himpunan Berhingga dan Kardinalitas 
+2.6 Himpunan Bagian dan Himpunan Kuasa 
+2.7 Operasi Himpunan 
+2.8 Sifat-sifat Operasi Himpunan 
+2.9 Hasil Kali Himpunan 
+3 Barisan 15
+3.1 Barisan dan Himpunan 
+3.2 Fungsi Karakteristik 
+3.3 Representasi Himpunan 
+4 Logika 19
+4.1 Pernyataan (Proposisi) 
+4.2 Pernyataan Bersyarat 
+4.3 Inversi, Konversi, dan Kontraposisi 
+4.4 Ekivalensi Logis dan Tautologi 
+4.5 Sifat-sifat Operasi Pernyataan 
+4.6 Pernyataan Berkuantor 
+4.7 Argumentasi Logis 
+4.8 Operasi Bit pada Komputer 
+5 Teknik Membilang 35
+5.1 Prinsip Perkalian 
+5.2 Prinsip Sarang Merpati 
+5.3 Permutasi 
+5.4 Kombinasi 
+6 Fungsi 41
+6.1 Fungsi Kebalikan .
+6.2 Komposisi Fungsi 
+7 Relasi 45
+7.1 Representasi Relasi 
+8 Pengantar Teori Graf 49
+9 Pohon 51
+10 Bilangan Bulat 53
+10.1 Pendahuluan 
+10.2 Aksioma Bilangan Bulat 
+10.3 Sifat-sifat Bilangan Bulat 
+10.4 Latihan .
+11 Induksi Matematika 59
+11.1 Induksi Matematika 
+11.2 Latihan 
+12 Matriks 63
+13 Aljabar Bool 65
 
 
 ## Bab 1
