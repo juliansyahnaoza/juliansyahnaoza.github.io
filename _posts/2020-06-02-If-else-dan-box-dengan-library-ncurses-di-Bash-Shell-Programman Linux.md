@@ -71,7 +71,7 @@ elif [[ $pil -eq 2 ]];
 
 4. Saat anda telah memasukan skrip shell  dan membuka di terminal linux anda maka tampilanya sepeti dibawah ini: 
 
-   ![](assets\codelabs.png)
+   ![](\assets\codelab_if.png)
 
 #### output IF
 
@@ -79,7 +79,7 @@ elif [[ $pil -eq 2 ]];
 
 2. kemudian ketikankan perintah `./nama_file.sh` kemudian enter, makan akan keluar seperti tampilan seperti pada gambar dibawah ini:
 
-   ![](assets\hasil_if.jpg)
+   ![](\assets\hasil_if.jpg)
 
 
 
