@@ -71,7 +71,7 @@ elif [[ $pil -eq 2 ]];
 
 4. Saat anda telah memasukan skrip shell  dan membuka di terminal linux anda maka tampilanya sepeti dibawah ini: 
 
-   ![](C:\Users\Naoza\Pictures\Screenshots\Screenshot (253).png)
+   ![](assets\codelabs.png)
 
 #### output IF
 
@@ -79,7 +79,7 @@ elif [[ $pil -eq 2 ]];
 
 2. kemudian ketikankan perintah `./nama_file.sh` kemudian enter, makan akan keluar seperti tampilan seperti pada gambar dibawah ini:
 
-   ![](C:\Users\Naoza\Desktop\SharedScreenshot.jpg)
+   ![](assets\hasil_if.jpg)
 
 
 
@@ -161,4 +161,4 @@ Penting**
 
 ini adalah output dari souce code diatas fungsi box();
 
-![](C:\Users\Naoza\Pictures\Screenshots\Screenshot (254).png)
+![](\assets\box.png)
