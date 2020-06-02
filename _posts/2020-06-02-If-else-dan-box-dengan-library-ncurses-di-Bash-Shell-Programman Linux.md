@@ -1,5 +1,3 @@
-# If else dan box dengan library ncurses di Bash Shell - Programman Linux
-
 ​	Bourne Again Shell yang lebih sering kita sebut Bash, Bash ini merupakan salah satu program dalam GNU Project yang menjadi Shell yang paling banyak digunakan. Bash merupakan pengembangan Bourne Shell, namanya juga ambil dari penciptanya yaitu Stephen Bourne. Kemudian Bash dikembangkan oleh Brian Fox.
 
 ​	Primer pada sistem Linux dan juga disertakan pula di OS X Tiger yang sekarang disebut Mac OS. Bash juga memiliki bahasa programman yang baik serta interaktivitas yang mudah dipahami. Selain Bash, Shell yang ada ialah C-Shell dan Korn Shell. Perbedaan ketiganya terlihat pada format penyimpanan, yaitu bash(.sh), C-Shell(.ch), dan korn (.ksh).code
