@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tentang Saya
+title: UAS 4
 permalink: /about/
 ---
 
