@@ -1,7 +1,7 @@
 ---
 layout: page
 title: UAS 4
-permalink: /about/
+permalink: /UAS 4/
 ---
 
 ![me](/assets/ps.png)
